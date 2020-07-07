@@ -1,2 +1,5 @@
 # hello-world
-hello world repository
+
+Hi Humans!
+
+4M1N3 here.
